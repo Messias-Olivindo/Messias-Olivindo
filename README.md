@@ -1,7 +1,7 @@
 <h1 align = "center"><img src="https://github.com/user-attachments/assets/f584ce6f-24db-4e00-8693-3a85d1b4ec17"></h1>
 
 <h3 align="left">📝Sobre mim</h3>
-<p align="justify">Estudante de ciências da computação cada vez mais apaixonado pela área tecnológica. Iniciando minha jornada no Instituto de Tecnologia e Liderança após conhecer a área por meio de projetos IoT e ficar fascinado pela dinâmica das ferramentas virtuais. Acredito que a solução de muitos problemas atuais pode ser encontrada utilizando a programação. </p>
+<p align="justify">Estudante de ciência da computação cada vez mais apaixonado pela área tecnológica. Iniciando minha jornada no Instituto de Tecnologia e Liderança após conhecer a área por meio de projetos IoT e ficar fascinado com a dinâmica das ferramentas virtuais. Acredito que a programação pode solucionar muitos problemas complexos da atualidade. </p>
 
 <h3 align="left">🚀Hobbies</h3>
 <p align="left">- Amo praticar esportes⚽.<br>
