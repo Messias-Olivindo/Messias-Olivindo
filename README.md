@@ -6,6 +6,11 @@
 <p align="justify">Estudante de ciências da computação cada vez mais apaixonado pela área tecnológica. Iniciando minha jornada no Instituto de Tecnologia e Liderança 
 após conhecer a área por meio de projetos IoT e ficar fascinado pela dinâmica das ferramentas virtuais. Acredito que a solução de muitos problemas atuais pode ser encontrada utilizando a programação. </p>
 
+<h3 align="center">Hobbies</h3>
+<p align="center">-->Amo praticar esportes.<br>
+-->Gosto de assitir todo tipo de filme.<br>
+-->Ouço músicas de qualquer gênero.<br>
+-->Gosto muito da literatura brasileira.</p>
 
 
 <h3 align="left">📥Contatos:</h3>
