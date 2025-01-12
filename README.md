@@ -1,4 +1,4 @@
-<h1><img src="https://github.com/user-attachments/assets/6f752a64-91f5-4c76-987c-9c2d0cc4cacf"></h1>
+<h1 align = "center"><img src="https://github.com/user-attachments/assets/f584ce6f-24db-4e00-8693-3a85d1b4ec17"></h1>
 
 <h3 align="left">📝Sobre mim</h3>
 <p align="justify">Estudante de ciências da computação cada vez mais apaixonado pela área tecnológica. Iniciando minha jornada no Instituto de Tecnologia e Liderança após conhecer a área por meio de projetos IoT e ficar fascinado pela dinâmica das ferramentas virtuais. Acredito que a solução de muitos problemas atuais pode ser encontrada utilizando a programação. </p>
