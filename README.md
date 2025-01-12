@@ -9,13 +9,6 @@
 - Ouço músicas de qualquer gênero🎵.<br>
 - Gosto de ler livros brasileiros de diferentes movimentos literários📚.</p>
 
-<h3 align="left">📥Contatos:</h3>
-<p align="left">E-mail: <strong>messias.olivindo@sou.inteli.edu.br</strong></strong></p>
-<p align="left">
-<a href="https://linkedin.com/in/messias-olivindo-21439a339/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="messias-olivindo-21439a339/" height="30" width="40" /></a>
-<a href="https://instagram.com/messiaaasz_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="messiaaasz_" height="30" width="40" /></a>
-</p>
-
 <h3 align="left">⚙️Linguagens e ferramentas:</h3>
 <p align="left"> <strong>Domino: </strong> <br> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> </p>
   
@@ -29,6 +22,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Messias-Olivindo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=Messias-Olivindo&style=for-the-badge"></p>
+
+<h3 align="left">📥Contatos:</h3>
+<p align="left">
+<a href="mailto:messias.olivindo@sou.inteli.edu.br" target="blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://linkedin.com/in/messias-olivindo-21439a339/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
+<a href="https://instagram.com/messiaaasz_" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+</p>
+
 
 <!--
 **Messias-Olivindo/Messias-Olivindo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
